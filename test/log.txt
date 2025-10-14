@@ -1,0 +1,88 @@
+2025-08-20 17:32:10,093 - root - INFO - ============this is the 0 th test============-<module>
+2025-08-20 17:32:19,728 - root - INFO - the mape result: 0.19779458442386333-test_llms_data
+2025-08-20 17:32:19,729 - root - INFO - time cost 9.635692119598389 s-<module>
+2025-08-20 17:32:19,730 - root - INFO - ============this is the 1 th test============-<module>
+2025-08-20 17:32:24,370 - root - INFO - the mape result: 0.060814998635618414-test_llms_data
+2025-08-20 17:32:24,371 - root - INFO - time cost 4.641430139541626 s-<module>
+2025-08-20 17:32:24,371 - root - INFO - ============this is the 2 th test============-<module>
+2025-08-20 17:32:27,044 - root - INFO - the mape result: 0.07193551444138432-test_llms_data
+2025-08-20 17:32:27,045 - root - INFO - time cost 2.673759698867798 s-<module>
+2025-08-20 17:32:27,046 - root - INFO - ============this is the 3 th test============-<module>
+2025-08-20 17:32:32,781 - root - INFO - the mape result: 0.07088362923300542-test_llms_data
+2025-08-20 17:32:32,782 - root - INFO - time cost 5.736337184906006 s-<module>
+2025-08-20 17:32:32,782 - root - INFO - ============this is the 4 th test============-<module>
+2025-08-20 17:32:42,134 - root - INFO - the mape result: 0.9999998719472529-test_llms_data
+2025-08-20 17:32:42,135 - root - INFO - time cost 9.352596521377563 s-<module>
+2025-08-20 17:32:42,135 - root - INFO - ============this is the 5 th test============-<module>
+2025-08-20 17:32:51,535 - root - INFO - the mape result: 0.643998124292607-test_llms_data
+2025-08-20 17:32:51,536 - root - INFO - time cost 9.400231122970581 s-<module>
+2025-08-20 17:32:51,536 - root - INFO - ============this is the 6 th test============-<module>
+2025-08-20 17:33:01,044 - root - INFO - the mape result: 0.6588601824886882-test_llms_data
+2025-08-20 17:33:01,044 - root - INFO - time cost 9.508037805557251 s-<module>
+2025-08-20 17:33:01,045 - root - INFO - ============this is the 7 th test============-<module>
+2025-08-20 17:33:05,791 - root - INFO - the mape result: 0.07051430246756343-test_llms_data
+2025-08-20 17:33:05,792 - root - INFO - time cost 4.746656656265259 s-<module>
+2025-08-20 17:33:05,792 - root - INFO - ============this is the 8 th test============-<module>
+2025-08-20 17:33:15,362 - root - INFO - the mape result: 0.14024915244268682-test_llms_data
+2025-08-20 17:33:15,363 - root - INFO - time cost 9.570886373519897 s-<module>
+2025-08-20 17:33:15,363 - root - INFO - ============this is the 9 th test============-<module>
+2025-08-20 17:33:24,710 - root - INFO - the mape result: 0.17484486155441442-test_llms_data
+2025-08-20 17:33:24,711 - root - INFO - time cost 9.347513675689697 s-<module>
+2025-08-20 17:33:24,711 - root - INFO - ============this is the 10 th test============-<module>
+2025-08-20 17:33:31,665 - root - INFO - the mape result: 0.07106928612647487-test_llms_data
+2025-08-20 17:33:31,665 - root - INFO - time cost 6.954005241394043 s-<module>
+2025-08-20 17:33:31,666 - root - INFO - ============this is the 11 th test============-<module>
+2025-08-20 17:33:35,674 - root - INFO - the mape result: 0.08246797824063977-test_llms_data
+2025-08-20 17:33:35,674 - root - INFO - time cost 4.008427619934082 s-<module>
+2025-08-20 17:33:35,674 - root - INFO - ============this is the 12 th test============-<module>
+2025-08-20 17:33:45,033 - root - INFO - the mape result: 0.5568965423924951-test_llms_data
+2025-08-20 17:33:45,034 - root - INFO - time cost 9.359347820281982 s-<module>
+2025-08-20 17:33:45,034 - root - INFO - ============this is the 13 th test============-<module>
+2025-08-20 17:33:54,201 - root - INFO - the mape result: 3.1010107314824764-test_llms_data
+2025-08-20 17:33:54,202 - root - INFO - time cost 9.167787790298462 s-<module>
+2025-08-20 17:33:54,202 - root - INFO - ============this is the 14 th test============-<module>
+2025-08-20 17:34:03,758 - root - INFO - the mape result: 0.17665495145590543-test_llms_data
+2025-08-20 17:34:03,759 - root - INFO - time cost 9.556157112121582 s-<module>
+2025-08-20 17:34:03,759 - root - INFO - ============this is the 15 th test============-<module>
+2025-08-20 17:34:08,565 - root - INFO - the mape result: 0.0777386436406154-test_llms_data
+2025-08-20 17:34:08,566 - root - INFO - time cost 4.806983470916748 s-<module>
+2025-08-20 17:34:08,566 - root - INFO - ============this is the 16 th test============-<module>
+2025-08-20 17:34:15,730 - root - INFO - the mape result: 0.033876441095234834-test_llms_data
+2025-08-20 17:34:15,730 - root - INFO - time cost 7.163832426071167 s-<module>
+2025-08-20 17:34:15,731 - root - INFO - ============this is the 17 th test============-<module>
+2025-08-20 17:34:24,128 - root - INFO - the mape result: 0.06931082873691426-test_llms_data
+2025-08-20 17:34:24,129 - root - INFO - time cost 8.397915601730347 s-<module>
+2025-08-20 17:34:24,129 - root - INFO - ============this is the 18 th test============-<module>
+2025-08-20 17:34:29,910 - root - INFO - the mape result: 0.02343980558197824-test_llms_data
+2025-08-20 17:34:29,911 - root - INFO - time cost 5.781548023223877 s-<module>
+2025-08-20 17:34:29,911 - root - INFO - ============this is the 19 th test============-<module>
+2025-08-20 17:34:40,557 - root - INFO - the mape result: 0.06699687253385021-test_llms_data
+2025-08-20 17:34:40,558 - root - INFO - time cost 10.646523475646973 s-<module>
+2025-08-20 17:34:40,558 - root - INFO - ============this is the 20 th test============-<module>
+2025-08-20 17:34:51,123 - root - INFO - the mape result: 0.8900467121666008-test_llms_data
+2025-08-20 17:34:51,124 - root - INFO - time cost 10.565282344818115 s-<module>
+2025-08-20 17:34:51,124 - root - INFO - ============this is the 21 th test============-<module>
+2025-08-20 17:34:56,433 - root - INFO - the mape result: 0.06760557863542446-test_llms_data
+2025-08-20 17:34:56,434 - root - INFO - time cost 5.309775114059448 s-<module>
+2025-08-20 17:34:56,434 - root - INFO - ============this is the 22 th test============-<module>
+2025-08-20 17:35:06,900 - root - INFO - the mape result: 0.3635811602032019-test_llms_data
+2025-08-20 17:35:06,901 - root - INFO - time cost 10.466088056564331 s-<module>
+2025-08-20 17:35:06,901 - root - INFO - ============this is the 23 th test============-<module>
+2025-08-20 17:35:17,384 - root - INFO - the mape result: 0.98971397488176-test_llms_data
+2025-08-20 17:35:17,385 - root - INFO - time cost 10.483718633651733 s-<module>
+2025-08-20 17:35:17,385 - root - INFO - ============this is the 24 th test============-<module>
+2025-08-20 17:35:21,431 - root - INFO - the mape result: 0.07030742888582267-test_llms_data
+2025-08-20 17:35:21,432 - root - INFO - time cost 4.046741485595703 s-<module>
+2025-08-20 17:35:21,433 - root - INFO - ============this is the 25 th test============-<module>
+2025-08-20 17:35:31,854 - root - INFO - the mape result: 0.07790900895093447-test_llms_data
+2025-08-20 17:35:31,855 - root - INFO - time cost 10.422338724136353 s-<module>
+2025-08-20 17:35:31,855 - root - INFO - ============this is the 26 th test============-<module>
+2025-08-20 17:35:42,381 - root - INFO - the mape result: 0.9156327381644523-test_llms_data
+2025-08-20 17:35:42,382 - root - INFO - time cost 10.525998592376709 s-<module>
+2025-08-20 17:35:42,382 - root - INFO - ============this is the 27 th test============-<module>
+2025-08-20 17:35:50,090 - root - INFO - the mape result: 0.0718048203129352-test_llms_data
+2025-08-20 17:35:50,090 - root - INFO - time cost 7.708398103713989 s-<module>
+2025-08-20 17:35:50,091 - root - INFO - ============this is the 28 th test============-<module>
+2025-08-20 17:35:58,074 - root - INFO - the mape result: 0.08044416143523123-test_llms_data
+2025-08-20 17:35:58,074 - root - INFO - time cost 7.983529090881348 s-<module>
+2025-08-20 17:35:58,075 - root - INFO - ============this is the 29 th test============-<module>
