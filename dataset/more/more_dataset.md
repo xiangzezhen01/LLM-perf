@@ -1,3 +1,4 @@
+# How to Upscale Neural Networks with Scaling Law? A Survey and Practical Guidelines
 ## Scaling Data-Constrained Language Models: https://github.com/huggingface/datablations
 | Field                   | Description |
 | ----------------------- | -------------------------------------------------- |
