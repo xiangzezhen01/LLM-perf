@@ -1,4 +1,6 @@
 # How to Upscale Neural Networks with Scaling Law? A Survey and Practical Guidelines
+
+# FITTING: A SURVEY OF SCALING LAWS
 ## Scaling Data-Constrained Language Models: https://github.com/huggingface/datablations  
 **dense3**
 
